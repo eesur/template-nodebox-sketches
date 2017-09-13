@@ -28,7 +28,7 @@ in your terminal:
 
 0. [clone](https://help.github.com/articles/cloning-a-repository/) this repo to your computer (without the history): `git clone https://github.com/eesur/nodebox-daily-sketches.git && rm -rf nodebox-daily-sketches/.git`
 1. run `npm update` to install `package.json` dependencies
-2. delete the sketches and code, within and add your own
+2. delete the example sketches and code (So you have a clean slate)
 3. create your repo and push to it
 4. set up gitHub Pages (just go to setting tab in your repo and turn on github pages)
 

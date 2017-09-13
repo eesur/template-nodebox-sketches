@@ -2,9 +2,11 @@
 
 This is basic flow/way to build your own automated interface for code sketches utilising gitHub pages.
 
+Details in this medium article: [medium.com/@eesur/code-sketches-nodebox-3-e6853f28c2bc](https://medium.com/@eesur/code-sketches-nodebox-3-e6853f28c2bc)
+
 <img width="1280" alt="screen shot 2017-09-13 at 13 35 37" src="https://user-images.githubusercontent.com/1597761/30397172-df05e356-98c3-11e7-8eef-73bc3cee6d23.png">
 
-Details in this medium article: [medium.com/@eesur/code-sketches-nodebox-3-e6853f28c2bc](https://medium.com/@eesur/code-sketches-nodebox-3-e6853f28c2bc)
+View with example data: [https://eesur.github.io/template-nodebox-sketches/](https://eesur.github.io/template-nodebox-sketches/)
 
 There's just one setting you need to update in the `index.html`, your repo name (around `line 73`), where the render code is (be sure to include the branch). The other option is how may columns you prefer in the webpage (it uses [flex grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes))
 
